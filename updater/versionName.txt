@@ -1,3 +1,3 @@
 versionName=17.51
-webpageUrl=https://gbpro.cc
+webpageUrl=http://ymmods.net
 dialogTitle=New version 17.51 AVAILABLE!
