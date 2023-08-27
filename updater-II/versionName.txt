@@ -1,3 +1,3 @@
-versionName=17.52
+versionName=17.53
 webpageUrl=https://gbwapro.cc
-dialogTitle=New version 17.52 AVAILABLE!
+dialogTitle=New version 17.53 AVAILABLE!
