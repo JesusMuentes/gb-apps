@@ -1,5 +1,5 @@
 titleDialog=TEST
 descriptionDialog=Esta es una prueba para comprobar si funciona correctamente.
 btnText=Visit
-btnLink=https://translate.google.com/
+btnLink=
 prefAlertDialog=gbpro_custom_notification_check_0
